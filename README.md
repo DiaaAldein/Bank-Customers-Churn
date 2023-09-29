@@ -1,6 +1,7 @@
 # Bank-Customers-Churn Analysis
 ## Data Analysis Project
 ### Prepared by: Diaa Aldein Alsayed Ibrahim Osman
+### Prepared for: EPSILON AI Institute
 
 In this project, we aim to analyze a dataset containing information about customers who have withdrawn their accounts from the bank due to various reasons, such as losses and other issues. The dataset consists of over 10,000 rows and contains 14 features, each providing valuable information about the customers. We obtained this dataset from Kaggle (https://www.kaggle.com/datasets/santoshd3/bank-customers) and made some modifications and data cleaning to tailor it to the specific criteria of this project.
 
